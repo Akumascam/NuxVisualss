@@ -1,0 +1,62 @@
+{
+  "winter_film": {
+    "frames": 412,
+    "fps": 30.0,
+    "width": 700,
+    "height": 392,
+    "columns": 4,
+    "rows": 4,
+    "pages": 26,
+    "format": "png",
+    "fpsNumerator": 30,
+    "fpsDenominator": 1
+  },
+  "sunset_film": {
+    "frames": 313,
+    "fps": 23.976023976023978,
+    "width": 736,
+    "height": 414,
+    "columns": 4,
+    "rows": 4,
+    "pages": 20,
+    "format": "png",
+    "fpsNumerator": 24000,
+    "fpsDenominator": 1001
+  },
+  "cherry_film": {
+    "frames": 300,
+    "fps": 30.0,
+    "width": 736,
+    "height": 414,
+    "columns": 4,
+    "rows": 4,
+    "pages": 19,
+    "format": "png",
+    "fpsNumerator": 30,
+    "fpsDenominator": 1
+  },
+  "winter_photo": {
+    "frames": 1,
+    "fps": 0,
+    "width": 735,
+    "height": 422,
+    "pages": 0,
+    "format": "png"
+  },
+  "spring_photo": {
+    "frames": 1,
+    "fps": 0,
+    "width": 736,
+    "height": 414,
+    "pages": 0,
+    "format": "png"
+  },
+  "sunset_photo": {
+    "frames": 1,
+    "fps": 0,
+    "width": 735,
+    "height": 490,
+    "pages": 0,
+    "format": "png"
+  }
+}

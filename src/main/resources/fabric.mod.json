@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "nuxvisuals",
+  "version": "${version}",
+  "name": "NuxVisuals",
+  "description": "Мой первый Fabric мод",
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.nuxvisuals.NuxVisuals"
+    ],
+    "client": [
+      "com.nuxvisuals.NuxVisualsClient"
+    ]
+  },
+  "mixins": [
+    "nuxvisuals.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.9",
+    "fabric-api": "*",
+    "fabric-key-binding-api-v1": "*",
+    "fabric-lifecycle-events-v1": "*",
+    "minecraft": "~1.21.4",
+    "java": ">=21"
+  }
+}
